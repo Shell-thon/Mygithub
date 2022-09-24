@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-24T17:50:47.402Z" agent="5.0 (Windows)" etag="A82alWm2cviMuq2YH34_" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-24T17:51:15.034Z" agent="5.0 (Windows)" etag="_2vrax6Xns5A1Ei-XZCA" version="20.3.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1173" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,6 +148,9 @@
         </mxCell>
         <mxCell id="T9wJRxxFutrIl6UK5Zcc-39" value="&lt;div&gt;First check &lt;br&gt;&lt;/div&gt;&lt;div&gt;where you &lt;br&gt;&lt;/div&gt;&lt;div&gt;are going to&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="454" y="55" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T9wJRxxFutrIl6UK5Zcc-41" value="In this case we want to loop in either direction" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="5" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
