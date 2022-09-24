@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-24T09:29:05.511Z" agent="5.0 (Windows)" etag="KlTwQWgjHE4_KPvggzhD" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-24T09:37:46.591Z" agent="5.0 (Windows)" etag="44tz7UE_SLHGUYCcbyEJ" version="20.3.6" type="github">
   <diagram id="KvMFmO6YZWwmBCVsrVoY" name="Page-1">
     <mxGraphModel dx="1108" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,14 +7,51 @@
         <mxCell id="391YmFGoP7x-tKDtO-hc-2" value="&lt;span id=&quot;docs-internal-guid-42f86201-7fff-0453-624f-1fd26bd538ff&quot; style=&quot;font-size: 11pt; font-family: &amp;quot;Comic Sans MS&amp;quot;; color: rgb(67, 67, 67); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;input numbers are = 4, 6, and 8&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="210" y="20" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="391YmFGoP7x-tKDtO-hc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="391YmFGoP7x-tKDtO-hc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="391YmFGoP7x-tKDtO-hc-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="260" as="sourcePoint" />
-            <mxPoint x="480" y="260" as="targetPoint" />
+            <mxPoint x="310" y="100" as="sourcePoint" />
+            <mxPoint x="340" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="391YmFGoP7x-tKDtO-hc-6" value="&lt;span id=&quot;docs-internal-guid-93043e83-7fff-c8b7-ad98-5914e74c5495&quot; style=&quot;font-size: 11pt; font-family: &amp;quot;Comic Sans MS&amp;quot;; color: rgb(67, 67, 67); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;let N = 4; X = 6; Y = 8;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="290" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="391YmFGoP7x-tKDtO-hc-7" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;entryX=0.613;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="391YmFGoP7x-tKDtO-hc-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="200" as="sourcePoint" />
+            <mxPoint x="100" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="210" />
+              <mxPoint x="367" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="391YmFGoP7x-tKDtO-hc-8" value="&lt;span id=&quot;docs-internal-guid-d31a6627-7fff-ad39-dd7f-1c28f00e0e94&quot; style=&quot;font-size: 11pt; font-family: &amp;quot;Comic Sans MS&amp;quot;; color: rgb(67, 67, 67); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Now make the value of N squared in next line&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="275" y="230" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="391YmFGoP7x-tKDtO-hc-10" value="&lt;div&gt;The red line &lt;br&gt;&lt;/div&gt;&lt;div&gt;Indicates how&lt;/div&gt;&lt;div&gt;critical &lt;br&gt;&lt;/div&gt;&lt;div&gt;this step is&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#33FF33;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="391YmFGoP7x-tKDtO-hc-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="245" as="sourcePoint" />
+            <mxPoint x="280" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="391YmFGoP7x-tKDtO-hc-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="250" as="sourcePoint" />
+            <mxPoint x="270" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="391YmFGoP7x-tKDtO-hc-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#000000;entryX=1.03;entryY=0.456;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="391YmFGoP7x-tKDtO-hc-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="270" as="sourcePoint" />
+            <mxPoint x="290" y="255" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
