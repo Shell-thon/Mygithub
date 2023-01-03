@@ -12,8 +12,6 @@ Kindly send a mail to work on a project or collaborate on ideas
 
 ![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shell-thon&theme=tokyonight&show_icons=true)
 
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.31
 
 <!---
 Shell-thon/Shell-thon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
