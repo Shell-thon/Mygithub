@@ -9,7 +9,7 @@ Kindly send a mail to work on a project or collaborate on ideas
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shell-thon&theme=android-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shell-thon&theme=tokyonight&show_icons=true)
+
 
 
 <!---
