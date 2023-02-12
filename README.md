@@ -6,7 +6,8 @@ Welcome to @Shell-thon Universe
 Kindly send a mail to work on a project or collaborate on ideas
 
 # Check out my blog post on Medium!
-![image](https://user-images.githubusercontent.com/113628692/213180495-6aefd2df-bd28-4773-baf8-6ae202ca27e5.png)
+![image](https://user-images.githubusercontent.com/113628692/218307208-b3efe3da-8177-4315-bee0-8b1c1e3c8d1d.png)
+
 
 [<img src="https://cdn.svgporn.com/logos/medium.svg" width="50" height="50">](https://medium.com/@shell-terminal)
 
